@@ -1,8 +1,12 @@
 {
   "name": "nw-cli",
-  "version": "0.0.1",
-  "description": "nw-cli CLI",
-  "private": true,
+  "version": "1.0.0",
+  "description": "pack-cli CLI",
+  "author": {
+    "name": "Iuri Rodrigues",
+    "email": "iurirodrigues2200@gmail.com"
+  },
+  "main": "build/cli",
   "bin": {
     "nw-cli": "bin/nw-cli"
   },
@@ -45,5 +49,18 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "engines": {
+    "node": "16.15.x",
+    "npm": "8.5.x",
+    "yarn": "1.22.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd-easy/nw-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/rd-easy/nw-cli/issues"
+  },
+  "homepage": "https://github.com/rd-easy/nw-cli#readme"
 }
