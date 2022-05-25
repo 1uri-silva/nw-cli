@@ -1,7 +1,7 @@
 {
   "name": "nw-cli",
   "version": "1.0.0",
-  "description": "pack-cli CLI",
+  "description": "nw-cli CLI",
   "author": {
     "name": "Iuri Rodrigues",
     "email": "iurirodrigues2200@gmail.com"
