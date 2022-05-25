@@ -1,4 +1,4 @@
-# 👨🏼‍💻 pack-cli
+# 👨🏼‍💻 nw-cli
 
 The CLI for creating components react.
 
@@ -14,7 +14,9 @@ I'm still developing but this is an initial phase for the likes of knowledge.
 
   $ npm -v
 
-  $ npm instal -g pack-cli
+  $ npm instal -g nw-cli
+
+  $ nw-cli
 ```
 
 # 📃 License
